@@ -43,4 +43,8 @@ public class MedicoController {
         medico.excluir();
     }
 
+    public void atual(){
+
+    }
+
 }
